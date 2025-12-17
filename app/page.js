@@ -10,7 +10,7 @@ const MOCK_BOOKS = [
   { id: 2, title: "The Martian Chronicles 2099", author: "Ray Bradbury AI", copies_available: 2, rating: 4.5 },
   { id: 3, title: "Quantum Computing for Beginners", author: "Schrodinger's Cat", copies_available: 0, rating: 4.9 },
   { id: 4, title: "Cybersecurity in the Metaverse", author: "Neo Anderson", copies_available: 12, rating: 4.2 },
-  { id: 5, title: "Sustainable Energy Systems", author: "Elon Musk V2", copies_available: 8, rating: 4.7 },
+  { id: 5, title: "Sustainable Energy Systems", author: "Elon Musk V2", copies_available: 8, rating: 4.5 },
   { id: 6, title: "Designing for AR/VR Interfaces", author: "Jony Ive Holo", copies_available: 3, rating: 4.6 },
   { id: 7, title: "History of the Internet (Ancient)", author: "Tim Berners-Lee", copies_available: 1, rating: 5.0 },
   { id: 8, title: "Robotics Engineering 101", author: "Asimov Bot", copies_available: 6, rating: 4.3 },
