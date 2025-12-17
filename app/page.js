@@ -6,7 +6,7 @@ import { Input } from "@/components/ui/input"
 import { Search, Zap, Cpu, Globe, Database, Wifi } from "lucide-react"
 
 const MOCK_BOOKS = [
-  { id: 1, title: "Neural Networks & Deep Learning", author: "Dr. A. Turing", copies_available: 5, rating: 4.8 },
+  { id: 1, title: "Neural Networks & Deep Learning", author: "Dr. A. Turing", copies_available: 5, rating: 4.5 },
   { id: 2, title: "The Martian Chronicles 2099", author: "Ray Bradbury AI", copies_available: 2, rating: 4.5 },
   { id: 3, title: "Quantum Computing for Beginners", author: "Schrodinger's Cat", copies_available: 0, rating: 4.9 },
   { id: 4, title: "Cybersecurity in the Metaverse", author: "Neo Anderson", copies_available: 12, rating: 4.2 },
