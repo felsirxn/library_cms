@@ -15,7 +15,7 @@ const MOCK_BOOKS = [
   { id: 7, title: "History of the Internet (Ancient)", author: "Tim Berners-Lee", copies_available: 1, rating: 5.0 },
   { id: 8, title: "Robotics Engineering 101", author: "Asimov Bot", copies_available: 6, rating: 4.3 },
   { id: 9, title: "Space Mining Logistics", author: "Weyland Yutani", copies_available: 4, rating: 4.1 },
-  { id: 10, title: "Synthetic Biology Ethics", author: "Dr. Frankenstein", copies_available: 9, rating: 4.4 },
+  { id: 10, title: "Synthetic Biology Ethics", author: "Dr. Frankenstein", copies_available: 9, rating: 4.5 },
 ]
 
 export default function Home() {
